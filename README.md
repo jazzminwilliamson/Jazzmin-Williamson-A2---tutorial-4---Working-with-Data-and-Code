@@ -1,4 +1,4 @@
-# tutorial-6
+# The Ocean Remembers - Artistic Coding Project by Jazzmin Williamson - tutorial-6
 
 ## Table of contents
 * [General info](#general-info)
