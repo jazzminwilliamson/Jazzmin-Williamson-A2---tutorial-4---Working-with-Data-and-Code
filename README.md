@@ -38,7 +38,8 @@ Simply paste the link into your browser to view the prototype and corresponding 
 
 ## Usage
 
-Open the sketch in the p5.js web browser: [[https://editor.p5js.org/](https://editor.p5js.org/jazz3willo/sketches/qkKnaNYJK)](https://editor.p5js.org/jazz3willo/full/CX_RDsPr5)
+Open the sketch in the p5.js web browser: [[[https://editor.p5js.org/](https://editor.p5js.org/jazz3willo/sketches/qkKnaNYJK)](https://editor.p5js.org/jazz3willo/full/CX_RDsPr5)
+](https://editor.p5js.org/jazz3willo/sketches/CX_RDsPr5)
 
 Interact with the data visualisation:
 - Click and hold your mouse to view wave height data for each year.
